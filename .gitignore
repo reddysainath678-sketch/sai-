@@ -1,9 +1,10 @@
 ### AL ###
-#Template for AL projects for Dynamics 365 Business Central
+#Template for AL projects for Dynamics 365 Business Central There is no changes of this folders and development of the file 
+launch.json folder vscode cache symbols alpackages and teating the snapshots 
 #launch.json folder
 .vscode/
 #Cache folder
-.alcache/
+.alcache/what are the issue you guys are made with the site 
 #Symbols folder
 .alpackages/
 #Snapshots folder
@@ -18,6 +19,10 @@ rad.json
 *.g.xlf
 #License-files
 *.bclicense
-*.flf
+*.is there any issue with the snapshots dynamics central develoment and result and alpackages and what issue 
+and is there any issue at web find and cleared the is
+sue with type 
 #Test results file
-TestResults.xml
+TestResults.xml issue dynamics central develoment multi task and there is no issue with the web site what issue was found at there and what are thinks are Base-file 
+test result file issue central multi task and alpackages of the base file rapid Extension of site develoment file 
+which was made on the site 
